@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: grandchild-service
+
+server:
+  port: 8082
